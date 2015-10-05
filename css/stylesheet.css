@@ -48,8 +48,11 @@ nav a {
 }
 h1 {
 	position: relative;
-	color: white;
-	padding-top: 650px;
+	color: #CC297A;
+	padding-top: 620px;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	font-size: 46px;
+	padding-left: 50px;
 }
 .clearfix {
 	clear: both;
@@ -65,6 +68,9 @@ h1 {
 	color: grey;
 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
 	font-size: 50px;
+}
+h2 {
+	padding-top: 50px;
 }
 
 h3 {
@@ -107,7 +113,7 @@ p {
 	color: white;
 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
 	font-size: 50px;
-	padding-top: 30px;
+	padding-top: 60px;
 }
 .whyitmatters h3 {
 	color: white;
@@ -131,6 +137,83 @@ h6 {
 	
 
 }
+.headerprograms h1 {
+	padding-top: 580px;
+}
+.programsmain {
+	height:1300px;
+	width:1320px;
+	margin: 0 auto;
+}
+.programsmain h2 {
+	text-align: center;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: grey;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+	font-size: 50px;
+	padding-top: 150px;
+	padding-bottom: 30px;
+}
+.columnone {
+	width: 400px;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+.columntwo {
+	width: 400px;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.columntwo img {
+	padding-left: 130px;
+	padding-top: 30px;
+}
+.columnthree {
+	width: 400px;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.mainclubs {
+	width:900px;
+	margin: 0 auto;
+}
+.mainclubs h2 {
+	text-align: center;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: grey;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+	font-size: 50px;
+	padding-top: 80px;
+	padding-bottom: 30px;
+}
+.clublist li {
+	list-style: circle;
+	margin-left: 100px;
+	font-family: 'Helvetica Neue';
+	font-size: 18px;
+	padding-top: 10px;
+}
+.maingetinvolved {
+	background-color: blue;
+	width:400px;
+	height: 500px;
+}
+.maingetinvolved h4 {
+	padding-top: 200px;
+	margin: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
 
 
 
