@@ -201,13 +201,20 @@ h6 {
 	background-color: blue;
 	width:400px;
 	height: 500px;
+	float; left;
 }
 .maingetinvolved h4 {
 	padding-top: 200px;
 	margin: 50px;
 	text-align: center;
 }
+.aside {
+	background-color: green;
+	float: right;
+	width:400px;
+	height: 500px;
 
+}
 
 
 
