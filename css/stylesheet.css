@@ -198,24 +198,110 @@ h6 {
 	padding-top: 10px;
 }
 .maingetinvolved {
-	background-color: blue;
-	width:400px;
-	height: 500px;
-	float; left;
+	width:900px;
+	margin: 0 auto;
+	height: 1450px;
 }
 .maingetinvolved h4 {
-	padding-top: 200px;
+	padding-top: 50px;
 	margin: 50px;
 	text-align: center;
 }
-.aside {
-	background-color: green;
-	float: right;
-	width:400px;
-	height: 500px;
+.maingetinvolved h2 {
+	text-align: center;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: grey;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+	font-size: 50px;
+	padding-top: 150px;
+	padding-bottom: 30px;
+}
+.my-button{
+	width: 700px;
+	margin-left: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	background-color: #CC297A;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+	font-family: 'Helvetica Neue';
+	font-size: 18px;
+	text-align: center;
 
 }
+.my-button:hover{
+  background-color: grey;
+}
 
+.contactus {
+	width: 900px;
+	margin: 0 auto;
+	height:550px;
+	position: bottom;
+}
+.rightside {
+	height:400px;
+	width:400px;
+	float: left;
+}
+.donatebutton{
+	width: 200px;
+	margin-left: 100px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+	background-color: #CC297A;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	text-align: center;
+
+}
+.form {
+	height: 400px;
+	width: 500px;
+	float: left;
+}
+.form p {
+	text-align: center;
+}
+.rightside h3 {
+	text-align: center;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: grey;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+	font-size: 50px;
+}
+.rightside p {
+	text-align: center;
+	font-size: 25px;
+}
+form {
+	margin-left:50px;
+	position:relative;
+	font-family: 'Helvetica Neue';
+	font-size: 16px;
+	line-height: 24px;
+	color: #09C;
+	text-decoration: none;
+	border-radius: 10px;
+	padding:5px;
+}
+input {
+	width:400px;
+	display:block;
+	border: 1px solid #999;
+	height: 30px;
+}
+
+textarea#comment {
+	width:400px;
+	height:150px;
+}
 
 
 
